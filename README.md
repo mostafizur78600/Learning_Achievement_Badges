@@ -27,10 +27,9 @@ The **Learning Achievement Badges** smart contract is a Solidity-based Ethereum 
 - **✅ Exists:** A boolean to indicate if the badge is valid.
 
 ---
-
 ## Key Functions
-
 The smart contract allows the contract owner to create badges using the `createBadge` function, which defines a badge with a unique ID, name, and description. Badges can then be awarded to users through the `awardBadge` function, which associates a badge ID with a user's Ethereum address and logs the transaction for transparency. Users can query their awarded badges and retrieve badge details using the contract's read functions.
+
 ---
 ## Project Vision
 
