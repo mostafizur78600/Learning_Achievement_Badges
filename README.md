@@ -4,6 +4,8 @@
 # 🏆 Learning Achievement Badges Smart Contract
 ---
 ## Contract address: 0x2528e91b1fdF6bC85C4f638cE803A36EF8d86a65
+![image](https://github.com/user-attachments/assets/518f65d8-c7c1-4f1d-9aab-0212db8c1393)
+
 ---
 ## Overview
 
@@ -55,3 +57,5 @@ The **Learning Achievement Badges** smart contract aims to revolutionize how edu
    - Compile and deploy the contract using Remix IDE or a Truffle migration script.
 
 ---
+
+
