@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/27b927e0-8f7b-47a9-9afa-5e980d8993bb)
+![image](https://github.com/user-attachments/assets/b3b39722-3696-4def-a79c-e0aacbfc6ee8)
 
 
 # 🏆 Learning Achievement Badges Smart Contract
