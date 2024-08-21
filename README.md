@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/b3b39722-3696-4def-a79c-e0aacbfc6ee8)
 
 
-# 🏆 Learning Achievement Badges Smart Contract
+# 🏆 Learning Achievement Badges
 ---
 ## Contract address: 0x2528e91b1fdF6bC85C4f638cE803A36EF8d86a65
 ![image](https://github.com/user-attachments/assets/518f65d8-c7c1-4f1d-9aab-0212db8c1393)
